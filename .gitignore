@@ -1,0 +1,13 @@
+# Compilaciones de Rust
+/target/
+
+# Posible directorio de compilación adicional
+/build/
+
+# Archivos temporales
+*.swp
+*.tmp
+
+# Sistema operativo
+.DS_Store
+
