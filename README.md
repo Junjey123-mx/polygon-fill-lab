@@ -165,8 +165,3 @@ cargo run
 
 Según `.gitignore`, los directorios `target/` y `build/` no deben versionarse, ya que corresponden a artefactos de compilación. El archivo `Cargo.lock`, en cambio, sí forma parte del repositorio, dado que fija las versiones exactas de las dependencias utilizadas.
 
-## Autor
-
-```text
-Nombre: [Nombre del estudiante]
-```
