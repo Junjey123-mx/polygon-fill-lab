@@ -39,4 +39,5 @@ fn main() {
     polygon_4.draw_border(&mut framebuffer);
 
     framebuffer.render_to_file("out.png");
+    framebuffer.render_to_file("out.bmp");
 }

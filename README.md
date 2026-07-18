@@ -121,7 +121,7 @@ Al ser `raylib` un binding sobre la librería nativa de raylib, en Linux es nece
 ## Instalación y ejecución
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/Junjey123-mx/polygon-fill-lab.git
 cd polygon-fill-lab
 cargo run
 ```
